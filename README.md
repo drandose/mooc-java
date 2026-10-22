@@ -11,6 +11,7 @@ Java Programming I and II are free, open online courses that teach programming f
 | Part | Exercises | Status |
 |------|-----------|--------|
 | Part 1 | 37 / 37 | Completed, October 2026 |
+| Part 2 | 34 / 34 | Completed, October 2026 |
 
 I will add each part as I complete it.
 
@@ -24,6 +25,13 @@ I will add each part as I complete it.
 - Arithmetic operations
 - Conditional statements (`if`, `else if`, `else`)
 - Logical operators (`&&`, `||`, `!`)
+
+**Part 2**
+
+- Repeating functionality with `while` loops, including `while (true)` with `break`
+- `for` loops
+- Counters, sums and averages calculated inside loops
+- Methods: parameters, return values and methods that call other methods
 
 ## Repository structure
 
